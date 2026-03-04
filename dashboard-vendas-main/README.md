@@ -28,8 +28,10 @@ dashboard-vendas
 ```
 
 ## 📷 Capturas de Tela
-![exemplo-dashboard](https://github.com/user-attachments/assets/3833e48c-bf95-4f16-a438-f07b4d0cbcc4)
-![assets](<img width="962" height="564" alt="image" src="https://github.com/user-attachments/assets/3227cea2-b126-4b99-957a-93e338d2e5b6" />
+![exemplo-dashboard](<img width="962" height="564" alt="image" src="https://github.com/user-attachments/assets/eb9da84b-2bba-494f-a9bb-b2ee18140c21" />
+)
+![assets](<img width="962" height="564" alt="image" src="https://github.com/user-attachments/assets/eaaa981c-3cb1-464d-8be9-bbf300dbcb9c" />
+
 )
 
 
