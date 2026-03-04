@@ -1,10 +1,10 @@
 # RELATÓRIO DE IMPLEMENTAÇÃO DE SERVIÇOS AWS
 
-Data: 10/11/2023
+Data: 04/10/2025
 
 Empresa: Abstergo Industries
 
-Responsável: Jonas Souza
+Responsável: weslley larroza
 
 ## Introdução
 Este relatório apresenta o processo de implementação de ferramentas na empresa Abstergo Industries, realizado por Jonas Souza. O objetivo do projeto foi elencar 3 serviços AWS, com a finalidade de realizar diminuição de custos imediatos.
@@ -39,4 +39,4 @@ A implementação de ferramentas na empresa *Abstergo Industries tem como espera
 
 Assinatura do Responsável pelo Projeto:
 
-Jonas Souza
+weslley larroza
