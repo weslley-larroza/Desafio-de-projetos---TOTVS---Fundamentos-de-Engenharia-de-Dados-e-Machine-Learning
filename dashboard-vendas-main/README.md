@@ -28,7 +28,8 @@ dashboard-vendas
 ```
 
 ## 📷 Capturas de Tela
-<img width="962" height="564" alt="image" src="https://github.com/user-attachments/assets/0f9ba7ee-2522-425e-82df-5c451cf704fd" />
+<img width="1101" height="553" alt="image" src="https://github.com/user-attachments/assets/e4f01d59-c207-4e8c-a57b-fdafb96e88ed" />
+
 
 ![assets](<img width="962" height="564" alt="image" src="https://github.com/user-attachments/assets/eaaa981c-3cb1-464d-8be9-bbf300dbcb9c" />
 
