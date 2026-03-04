@@ -29,7 +29,8 @@ dashboard-vendas
 
 ## 📷 Capturas de Tela
 ![exemplo-dashboard](https://github.com/user-attachments/assets/3833e48c-bf95-4f16-a438-f07b4d0cbcc4)
-![assets](https://github.com/user-attachments/assets/49d4d9e7-a522-47bf-ad5a-90b704506a64)
+![assets](<img width="962" height="564" alt="image" src="https://github.com/user-attachments/assets/3227cea2-b126-4b99-957a-93e338d2e5b6" />
+)
 
 
 ## 🛠️ Como Usar
